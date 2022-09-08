@@ -1,5 +1,5 @@
 
-Base-64 encoder and decoder extracted from the SML/NJ library and
+Base-64 encoder and decoder extracted from the SML/NJ library,
 adapted to remove non-portable stuff (but become a little slower).
 
 See COPYING for copyright & licence details.
